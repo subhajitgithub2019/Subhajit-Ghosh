@@ -1,7 +1,6 @@
-# Subhajit Ghosh
+# Home page of Subhajit Ghosh
 
-## [Home](https://subhajitgithub2019.github.io/subhajit_ghosh-math/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Research](https://subhajitgithub2019.github.io/subhajit_ghosh-math/research.html)
-
+## Click [here](https://github.com/subhajitgithub2019/subhajit_ghosh-math-home_page/edit/gh-pages/index.md) to edit this page.
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -30,7 +29,6 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-Click [here](https://github.com/subhajitgithub2019/subhajit_ghosh-math-home_page/edit/gh-pages/index.md) to edit this page.
 
 ### Jekyll Themes
 
