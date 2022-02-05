@@ -1,4 +1,4 @@
-# Home page of Subhajit Ghosh
+# Subhajit Ghosh
 
 ## [Home](https://subhajitgithub2019.github.io/subhajit_ghosh-math/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Research](
 
