@@ -1,6 +1,6 @@
 # Subhajit Ghosh
 
-## [Home](https://subhajitgithub2019.github.io/subhajit_ghosh-math/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Research](
+## [Home](https://subhajitgithub2019.github.io/subhajit_ghosh-math/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Research](https://subhajitgithub2019.github.io/subhajit_ghosh-math/research.html)
 
 
 
