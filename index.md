@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Home page of Subhajit Ghosh
+
+[Home](https://subhajitgithub2019.github.io/subhajit_ghosh-math/)
 
 You can use the [editor on GitHub](https://github.com/subhajitgithub2019/subhajit_ghosh-math-home_page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
